@@ -1,0 +1,4 @@
+1. pip3 install pygame
+2. Double click RPGold.pyw
+3. ?
+4. Profit
